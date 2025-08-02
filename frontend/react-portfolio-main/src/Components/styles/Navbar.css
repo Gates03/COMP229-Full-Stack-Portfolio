@@ -1,0 +1,58 @@
+/**
+ * File Name: Navbar.css
+ * Student's Name: Joshua Gates
+ * StudentID: 301469968
+ * Date: May 22, 2025
+ */
+
+ /* ===================== Navbar Styles ===================== */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background: #333;
+  color: white;
+}
+.navbar-logo a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+.navbar-links {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+}
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar_user {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-user-info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: white;
+  text-decoration: none;
+}
+
+.auth-links {
+  display: flex;
+  gap: 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+.sign-up-link,
+.sign-in-link {
+  color: white;
+  text-decoration: none;
+}

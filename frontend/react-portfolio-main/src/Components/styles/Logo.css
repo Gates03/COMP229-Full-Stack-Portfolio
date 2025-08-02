@@ -1,0 +1,27 @@
+/**
+ * File Name: Logo.css
+ * Student's Name: Joshua Gates
+ * StudentID: 301469968
+ * Date: May 22, 2025
+ */
+
+/* ===================== Logo Styles ===================== */
+.custom-logo {
+  width: 40px;
+  height: 40px;
+  background-color: #007bff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.custom-logo:hover {
+  transform: scale(1.1) rotate(5deg);   
+  background-color: #0056b3;
+  cursor: pointer;
+}
