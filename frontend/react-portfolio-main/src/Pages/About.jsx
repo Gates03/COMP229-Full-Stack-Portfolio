@@ -35,7 +35,7 @@ function About() {
             </p>
 
             <a
-                href="/assets/resume.pdf"
+                href="/assets/Joshua_Gates_Resume_NOV2025.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ display: 'inline-block', marginTop: '1rem', color: 'blue' }}
