@@ -15,7 +15,7 @@ function Home() {
             <h1>Welcome to My Portfolio</h1>
             
             <p style={{ fontSize: '1.1rem', marginTop: '1rem' }}>
-                Hi, I'm Joshua — a passionate and detail-oriented software engineering student with a focus on building practical and user-friendly applications.
+                Hi, I'm Joshua — a passionate and detail-oriented software engineering graduate with a focus on building practical and user-friendly applications.
             </p>
 
             <p style={{ fontWeight: 'bold', marginTop: '1.5rem' }}>
