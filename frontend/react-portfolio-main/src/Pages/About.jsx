@@ -25,7 +25,7 @@ function About() {
             />
 
             <p style={{ marginTop: '1.5rem', fontSize: '1.1rem' }}>
-                Hello! My name is <strong>Joshua Gates</strong>, and I’m currently studying Software Engineering at Centennial College. 
+                Hello! My name is <strong>Joshua Gates</strong>, and I’m a <strong>Software Engineering graduate</strong> from Centennial College, where I completed my program with honours. 
                 I have a strong interest in full-stack web development and a growing skill set that includes HTML, CSS, JavaScript, C#, SQL, and Python.
             </p>
 
@@ -35,7 +35,7 @@ function About() {
             </p>
 
             <a
-                href="/assets/Joshua_Gates_Resume_NOV2025.pdf"
+                href="/assets/Joshua_Gates_Resume_January_2026.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ display: 'inline-block', marginTop: '1rem', color: 'blue' }}
