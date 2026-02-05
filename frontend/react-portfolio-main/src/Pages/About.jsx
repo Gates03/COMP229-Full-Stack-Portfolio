@@ -35,7 +35,7 @@ function About() {
             </p>
 
             <a
-                href="/assets/Joshua Gates Resume January 2026.pdf"
+                href="/assets/Joshua Gates Resume February 2026.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ display: 'inline-block', marginTop: '1rem', color: 'blue' }}
